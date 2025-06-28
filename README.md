@@ -1,9 +1,6 @@
 # land-surface-temperature
 A QGIS Model Builder to generate a Land Surface Temperature (LST) map and other parameters related to Urban Heat Island analysis.
-Input parameters:
-- Near-Infrared Band (Band 5 for Landsat 8/9)
-- Red Band (Band 4 for Landsat 8/9)
-- Thermal Infrared Band (Band 10 for Landsat 8/9)
+
 Outputs:
 - TOA Spectral Radiance
 The amount of solar energy (radiation) recorded by a satellite sensor at the top of the Earth’s atmosphere, before any correction for atmospheric effects (like scattering or absorption). It's expressed in units like watts per square meter per steradian per micrometer (W/m².sr.µm).
